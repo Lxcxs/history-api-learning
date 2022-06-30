@@ -50,6 +50,7 @@ h1, p {
     animation: open .5s ease-in-out;
 }
 
+/*Animação de entrada do conteúdo  <->  entry animation of content*/
 @keyframes open {
     from {
         opacity: 0;
